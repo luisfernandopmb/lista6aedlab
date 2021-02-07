@@ -1,0 +1,7 @@
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\bin\Debug\lista6aedlab.exe.config
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\bin\Debug\lista6aedlab.exe
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\bin\Debug\lista6aedlab.pdb
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\obj\Debug\lista6aedlab.csprojAssemblyReference.cache
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\obj\Debug\lista6aedlab.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\obj\Debug\lista6aedlab.exe
+C:\Users\luisf\source\repos\lista6aedlab\lista6aedlab\obj\Debug\lista6aedlab.pdb
